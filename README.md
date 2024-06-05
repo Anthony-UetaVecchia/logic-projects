@@ -10,9 +10,6 @@ Welcome to my repository of programming logic projects!
 - [Projects](#projects)
   - [Project 1: Secret Number Game](#project-1-secret-number-game)
   - [Project 2: Consolidation](#project-2-consolidation)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -41,7 +38,3 @@ This repository is a comprehensive collection of projects aimed at showing my pr
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
